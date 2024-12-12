@@ -20,12 +20,15 @@
     "circomlib": "^2.0.5",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
-    "ethers": "^5",
-    "next": "13.2.4",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.17",
+    "next": "^15.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "snarkjs": "^0.6.9",
-    "typescript": "4.9.5",
-    "wagmi": "^0.12.1"
+    "snarkjs": "^0.7.5",
+    "wagmi": "^2.13.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
   }
 }
